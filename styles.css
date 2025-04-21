@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,240,196,0.8902748599439776) 22%, rgba(254,231,234,1) 100%);
+}
+
+img {
+    width:500px;
+}
+
+h1 {
+    background-color: rgb(165, 236, 255);
+}
+
+p {
+    text-align: left;
+}
